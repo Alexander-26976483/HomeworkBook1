@@ -1,7 +1,0 @@
-C:\Users\Alexandr\source\repos\Chapter4\Temp\bin\Debug\Temp.exe.config
-C:\Users\Alexandr\source\repos\Chapter4\Temp\bin\Debug\Temp.exe
-C:\Users\Alexandr\source\repos\Chapter4\Temp\bin\Debug\Temp.pdb
-C:\Users\Alexandr\source\repos\Chapter4\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
-C:\Users\Alexandr\source\repos\Chapter4\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
-C:\Users\Alexandr\source\repos\Chapter4\Temp\obj\Debug\Temp.exe
-C:\Users\Alexandr\source\repos\Chapter4\Temp\obj\Debug\Temp.pdb
