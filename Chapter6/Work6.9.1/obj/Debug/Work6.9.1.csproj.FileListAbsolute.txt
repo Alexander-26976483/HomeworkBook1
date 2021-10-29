@@ -1,0 +1,6 @@
+C:\Users\Alexandr\source\repos\Chapter 6\Work6.9.1\bin\Debug\Work6.9.1.exe.config
+C:\Users\Alexandr\source\repos\Chapter 6\Work6.9.1\bin\Debug\Work6.9.1.exe
+C:\Users\Alexandr\source\repos\Chapter 6\Work6.9.1\bin\Debug\Work6.9.1.pdb
+C:\Users\Alexandr\source\repos\Chapter 6\Work6.9.1\obj\Debug\Work6.9.1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter 6\Work6.9.1\obj\Debug\Work6.9.1.exe
+C:\Users\Alexandr\source\repos\Chapter 6\Work6.9.1\obj\Debug\Work6.9.1.pdb

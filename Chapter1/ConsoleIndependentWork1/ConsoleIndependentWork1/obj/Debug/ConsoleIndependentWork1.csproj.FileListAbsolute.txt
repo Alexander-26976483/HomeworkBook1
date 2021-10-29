@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\bin\Debug\ConsoleIndependentWork1.exe.config
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\bin\Debug\ConsoleIndependentWork1.exe
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\bin\Debug\ConsoleIndependentWork1.pdb
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\obj\Debug\ConsoleIndependentWork1.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\obj\Debug\ConsoleIndependentWork1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\obj\Debug\ConsoleIndependentWork1.exe
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1\ConsoleIndependentWork1\obj\Debug\ConsoleIndependentWork1.pdb

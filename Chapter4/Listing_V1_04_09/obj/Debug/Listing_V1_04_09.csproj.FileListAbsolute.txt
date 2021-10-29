@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\bin\Debug\Listing_V1_04_09.exe.config
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\bin\Debug\Listing_V1_04_09.exe
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\bin\Debug\Listing_V1_04_09.pdb
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\obj\Debug\Listing_V1_04_09.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\obj\Debug\Listing_V1_04_09.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\obj\Debug\Listing_V1_04_09.exe
+C:\Users\Alexandr\source\repos\Chapter4\Listing_V1_04_09\obj\Debug\Listing_V1_04_09.pdb

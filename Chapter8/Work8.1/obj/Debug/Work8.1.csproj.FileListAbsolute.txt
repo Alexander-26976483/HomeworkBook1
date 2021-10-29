@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\bin\Debug\Work8.1.exe.config
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\bin\Debug\Work8.1.exe
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\bin\Debug\Work8.1.pdb
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\obj\Debug\Work8.1.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\obj\Debug\Work8.1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\obj\Debug\Work8.1.exe
+C:\Users\Alexandr\source\repos\Chapter8\Work8.1\obj\Debug\Work8.1.pdb

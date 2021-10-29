@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\bin\Debug\Work4.4.exe.config
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\bin\Debug\Work4.4.exe
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\bin\Debug\Work4.4.pdb
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\obj\Debug\Work4.4.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\obj\Debug\Work4.4.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\obj\Debug\Work4.4.exe
+C:\Users\Alexandr\source\repos\Chapter4\Work4.4\obj\Debug\Work4.4.pdb

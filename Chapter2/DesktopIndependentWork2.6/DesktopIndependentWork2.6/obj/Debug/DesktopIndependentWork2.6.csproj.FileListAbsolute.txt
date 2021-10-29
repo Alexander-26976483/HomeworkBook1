@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\bin\Debug\DesktopIndependentWork2.6.exe.config
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\bin\Debug\DesktopIndependentWork2.6.exe
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\bin\Debug\DesktopIndependentWork2.6.pdb
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\obj\Debug\DesktopIndependentWork2.6.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\obj\Debug\DesktopIndependentWork2.6.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\obj\Debug\DesktopIndependentWork2.6.exe
+C:\Users\Alexandr\source\repos\DesktopIndependentWork2.6\DesktopIndependentWork2.6\obj\Debug\DesktopIndependentWork2.6.pdb

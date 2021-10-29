@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\bin\Debug\Work9.5.exe.config
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\bin\Debug\Work9.5.exe
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\bin\Debug\Work9.5.pdb
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\obj\Debug\Work9.5.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\obj\Debug\Work9.5.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\obj\Debug\Work9.5.exe
+C:\Users\Alexandr\source\repos\Chapter9\Work9.5\obj\Debug\Work9.5.pdb

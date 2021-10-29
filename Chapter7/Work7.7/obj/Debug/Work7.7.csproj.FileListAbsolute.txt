@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\bin\Debug\Work7.7.exe.config
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\bin\Debug\Work7.7.exe
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\bin\Debug\Work7.7.pdb
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\obj\Debug\Work7.7.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\obj\Debug\Work7.7.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\obj\Debug\Work7.7.exe
+C:\Users\Alexandr\source\repos\Chapter7\Work7.7\obj\Debug\Work7.7.pdb

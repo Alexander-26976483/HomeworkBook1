@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\SR1\SR1\bin\Release\SR1.exe.config
+C:\Users\Alexandr\source\repos\SR1\SR1\bin\Release\SR1.exe
+C:\Users\Alexandr\source\repos\SR1\SR1\bin\Release\SR1.pdb
+C:\Users\Alexandr\source\repos\SR1\SR1\obj\Release\SR1.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\SR1\SR1\obj\Release\SR1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\SR1\SR1\obj\Release\SR1.exe
+C:\Users\Alexandr\source\repos\SR1\SR1\obj\Release\SR1.pdb

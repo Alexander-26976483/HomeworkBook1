@@ -1,0 +1,7 @@
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\bin\Debug\Work5.6.exe.config
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\bin\Debug\Work5.6.exe
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\bin\Debug\Work5.6.pdb
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\obj\Debug\Work5.6.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\obj\Debug\Work5.6.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\obj\Debug\Work5.6.exe
+C:\Users\Alexandr\source\repos\Chapter5\Work5.6\obj\Debug\Work5.6.pdb

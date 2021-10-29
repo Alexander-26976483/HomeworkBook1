@@ -1,0 +1,13 @@
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\bin\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.exe
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\bin\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.deps.json
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\bin\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.runtimeconfig.json
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\bin\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.runtimeconfig.dev.json
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\bin\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.dll
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\bin\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.pdb
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.csprojAssemblyReference.cache
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.dll
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.pdb
+C:\Users\Alexandr\source\repos\ConsoleIndependentWork1.9\ConsoleIndependentWork1.9\obj\Debug\netcoreapp3.1\ConsoleIndependentWork1.9.genruntimeconfig.cache
